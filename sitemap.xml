@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bestaudibleromance.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://bestaudibleromance.com/audibleromance-explained-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/truth-about-audibleromance-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/how-to-pick-audibleromance-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/best-audibleromance-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/audibleromance-tested-ranked-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/audibleromance-worth-the-upgrade-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/smart-audibleromance-shopping-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/what-we-look-for-audibleromance-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/audibleromance-reviewed-2026.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://bestaudibleromance.com/audibleromance-quality-vs-marketing.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://bestaudibleromance.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
